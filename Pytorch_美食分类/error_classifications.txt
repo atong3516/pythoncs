@@ -1,0 +1,684 @@
+True: Bread, Predicted: Meat
+True: Bread, Predicted: Fried food
+True: Bread, Predicted: Meat
+True: Bread, Predicted: Meat
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Fried food
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Fried food
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Dairy product
+True: Bread, Predicted: Meat
+True: Bread, Predicted: Fried food
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Soup
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Meat
+True: Bread, Predicted: Meat
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Dairy product
+True: Bread, Predicted: Fried food
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Fried food
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Meat
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Meat
+True: Bread, Predicted: Fried food
+True: Bread, Predicted: Seafood
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Fried food
+True: Bread, Predicted: Fried food
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Fried food
+True: Bread, Predicted: Meat
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Fried food
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Fried food
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Fried food
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Seafood
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Meat
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Seafood
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Vegetable
+True: Bread, Predicted: Soup
+True: Bread, Predicted: Meat
+True: Bread, Predicted: Meat
+True: Bread, Predicted: Dairy product
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Meat
+True: Bread, Predicted: Meat
+True: Bread, Predicted: Rice
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Meat
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Meat
+True: Bread, Predicted: Meat
+True: Bread, Predicted: Meat
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Fried food
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Egg
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Dessert
+True: Bread, Predicted: Dairy product
+True: Bread, Predicted: Fried food
+True: Bread, Predicted: Dessert
+True: Dairy product, Predicted: Bread
+True: Dairy product, Predicted: Vegetable
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Soup
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Egg
+True: Dairy product, Predicted: Seafood
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Bread
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Soup
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Meat
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Bread
+True: Dairy product, Predicted: Meat
+True: Dairy product, Predicted: Bread
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Fried food
+True: Dairy product, Predicted: Vegetable
+True: Dairy product, Predicted: Soup
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Egg
+True: Dairy product, Predicted: Egg
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Seafood
+True: Dairy product, Predicted: Meat
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Bread
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Meat
+True: Dairy product, Predicted: Seafood
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Soup
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Seafood
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Meat
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Dessert
+True: Dairy product, Predicted: Soup
+True: Dairy product, Predicted: Bread
+True: Dairy product, Predicted: Vegetable
+True: Dessert, Predicted: Soup
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Soup
+True: Dessert, Predicted: Fried food
+True: Dessert, Predicted: Egg
+True: Dessert, Predicted: Egg
+True: Dessert, Predicted: Soup
+True: Dessert, Predicted: Dairy product
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Seafood
+True: Dessert, Predicted: Fried food
+True: Dessert, Predicted: Soup
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Fried food
+True: Dessert, Predicted: Egg
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Soup
+True: Dessert, Predicted: Egg
+True: Dessert, Predicted: Soup
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Seafood
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Egg
+True: Dessert, Predicted: Seafood
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Fried food
+True: Dessert, Predicted: Soup
+True: Dessert, Predicted: Fried food
+True: Dessert, Predicted: Rice
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Fried food
+True: Dessert, Predicted: Egg
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Egg
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Fried food
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Dairy product
+True: Dessert, Predicted: Dairy product
+True: Dessert, Predicted: Seafood
+True: Dessert, Predicted: Soup
+True: Dessert, Predicted: Dairy product
+True: Dessert, Predicted: Dairy product
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Egg
+True: Dessert, Predicted: Rice
+True: Dessert, Predicted: Egg
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Seafood
+True: Dessert, Predicted: Fried food
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Fried food
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Dairy product
+True: Dessert, Predicted: Seafood
+True: Dessert, Predicted: Fried food
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Egg
+True: Dessert, Predicted: Soup
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Dairy product
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Dairy product
+True: Dessert, Predicted: Soup
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Soup
+True: Dessert, Predicted: Soup
+True: Dessert, Predicted: Soup
+True: Dessert, Predicted: Vegetable
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Vegetable
+True: Dessert, Predicted: Egg
+True: Dessert, Predicted: Egg
+True: Dessert, Predicted: Dairy product
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Fried food
+True: Dessert, Predicted: Soup
+True: Dessert, Predicted: Soup
+True: Dessert, Predicted: Soup
+True: Dessert, Predicted: Soup
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Soup
+True: Dessert, Predicted: Egg
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Fried food
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Fried food
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Fried food
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Egg
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Egg
+True: Dessert, Predicted: Dairy product
+True: Dessert, Predicted: Egg
+True: Dessert, Predicted: Rice
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Vegetable
+True: Dessert, Predicted: Vegetable
+True: Dessert, Predicted: Dairy product
+True: Dessert, Predicted: Vegetable
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Egg
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Seafood
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Soup
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Egg
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Seafood
+True: Dessert, Predicted: Vegetable
+True: Dessert, Predicted: Fried food
+True: Dessert, Predicted: Fried food
+True: Dessert, Predicted: Egg
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Seafood
+True: Dessert, Predicted: Soup
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Meat
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Bread
+True: Dessert, Predicted: Fried food
+True: Dessert, Predicted: Vegetable
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Fried food
+True: Egg, Predicted: Meat
+True: Egg, Predicted: Meat
+True: Egg, Predicted: Rice
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Seafood
+True: Egg, Predicted: Seafood
+True: Egg, Predicted: Dessert
+True: Egg, Predicted: Seafood
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Noodles
+True: Egg, Predicted: Dessert
+True: Egg, Predicted: Meat
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Meat
+True: Egg, Predicted: Dessert
+True: Egg, Predicted: Vegetable
+True: Egg, Predicted: Seafood
+True: Egg, Predicted: Vegetable
+True: Egg, Predicted: Vegetable
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Dessert
+True: Egg, Predicted: Dessert
+True: Egg, Predicted: Vegetable
+True: Egg, Predicted: Dessert
+True: Egg, Predicted: Rice
+True: Egg, Predicted: Meat
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Dairy product
+True: Egg, Predicted: Soup
+True: Egg, Predicted: Meat
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Dairy product
+True: Egg, Predicted: Fried food
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Dessert
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Seafood
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Dessert
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Dessert
+True: Egg, Predicted: Dessert
+True: Egg, Predicted: Dessert
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Meat
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Meat
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Fried food
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Meat
+True: Egg, Predicted: Soup
+True: Egg, Predicted: Seafood
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Vegetable
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Dessert
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Dessert
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Dairy product
+True: Egg, Predicted: Fried food
+True: Egg, Predicted: Seafood
+True: Egg, Predicted: Noodles
+True: Egg, Predicted: Meat
+True: Egg, Predicted: Dessert
+True: Egg, Predicted: Dessert
+True: Egg, Predicted: Dessert
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Dairy product
+True: Egg, Predicted: Soup
+True: Egg, Predicted: Dairy product
+True: Egg, Predicted: Dessert
+True: Egg, Predicted: Bread
+True: Egg, Predicted: Soup
+True: Egg, Predicted: Dessert
+True: Egg, Predicted: Soup
+True: Fried food, Predicted: Dessert
+True: Fried food, Predicted: Seafood
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Dessert
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Bread
+True: Fried food, Predicted: Bread
+True: Fried food, Predicted: Dessert
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Egg
+True: Fried food, Predicted: Dairy product
+True: Fried food, Predicted: Dessert
+True: Fried food, Predicted: Dessert
+True: Fried food, Predicted: Egg
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Seafood
+True: Fried food, Predicted: Bread
+True: Fried food, Predicted: Egg
+True: Fried food, Predicted: Bread
+True: Fried food, Predicted: Dessert
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Dessert
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Noodles
+True: Fried food, Predicted: Dairy product
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Egg
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Bread
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Bread
+True: Fried food, Predicted: Dessert
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Seafood
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Dairy product
+True: Fried food, Predicted: Bread
+True: Fried food, Predicted: Noodles
+True: Fried food, Predicted: Bread
+True: Fried food, Predicted: Rice
+True: Fried food, Predicted: Bread
+True: Fried food, Predicted: Bread
+True: Fried food, Predicted: Egg
+True: Fried food, Predicted: Seafood
+True: Fried food, Predicted: Dairy product
+True: Fried food, Predicted: Bread
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Bread
+True: Fried food, Predicted: Seafood
+True: Fried food, Predicted: Dessert
+True: Fried food, Predicted: Rice
+True: Fried food, Predicted: Bread
+True: Fried food, Predicted: Egg
+True: Fried food, Predicted: Dessert
+True: Fried food, Predicted: Egg
+True: Fried food, Predicted: Seafood
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Egg
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Dessert
+True: Fried food, Predicted: Noodles
+True: Fried food, Predicted: Meat
+True: Fried food, Predicted: Dessert
+True: Fried food, Predicted: Dessert
+True: Fried food, Predicted: Meat
+True: Meat, Predicted: Seafood
+True: Meat, Predicted: Dessert
+True: Meat, Predicted: Seafood
+True: Meat, Predicted: Seafood
+True: Meat, Predicted: Seafood
+True: Meat, Predicted: Seafood
+True: Meat, Predicted: Fried food
+True: Meat, Predicted: Soup
+True: Meat, Predicted: Seafood
+True: Meat, Predicted: Bread
+True: Meat, Predicted: Fried food
+True: Meat, Predicted: Seafood
+True: Meat, Predicted: Seafood
+True: Meat, Predicted: Seafood
+True: Meat, Predicted: Fried food
+True: Meat, Predicted: Seafood
+True: Meat, Predicted: Dessert
+True: Meat, Predicted: Soup
+True: Meat, Predicted: Fried food
+True: Meat, Predicted: Egg
+True: Meat, Predicted: Dairy product
+True: Meat, Predicted: Bread
+True: Meat, Predicted: Fried food
+True: Meat, Predicted: Egg
+True: Meat, Predicted: Soup
+True: Meat, Predicted: Bread
+True: Meat, Predicted: Soup
+True: Meat, Predicted: Dessert
+True: Meat, Predicted: Dessert
+True: Meat, Predicted: Vegetable
+True: Meat, Predicted: Seafood
+True: Meat, Predicted: Fried food
+True: Meat, Predicted: Fried food
+True: Meat, Predicted: Egg
+True: Meat, Predicted: Dessert
+True: Meat, Predicted: Rice
+True: Meat, Predicted: Soup
+True: Meat, Predicted: Fried food
+True: Meat, Predicted: Fried food
+True: Meat, Predicted: Dessert
+True: Meat, Predicted: Seafood
+True: Meat, Predicted: Seafood
+True: Meat, Predicted: Dairy product
+True: Meat, Predicted: Bread
+True: Meat, Predicted: Dessert
+True: Meat, Predicted: Seafood
+True: Meat, Predicted: Seafood
+True: Meat, Predicted: Seafood
+True: Meat, Predicted: Bread
+True: Meat, Predicted: Fried food
+True: Meat, Predicted: Egg
+True: Meat, Predicted: Dessert
+True: Meat, Predicted: Dessert
+True: Meat, Predicted: Bread
+True: Meat, Predicted: Seafood
+True: Meat, Predicted: Bread
+True: Meat, Predicted: Fried food
+True: Meat, Predicted: Seafood
+True: Meat, Predicted: Seafood
+True: Meat, Predicted: Bread
+True: Meat, Predicted: Fried food
+True: Meat, Predicted: Bread
+True: Meat, Predicted: Dessert
+True: Meat, Predicted: Vegetable
+True: Meat, Predicted: Bread
+True: Meat, Predicted: Dessert
+True: Meat, Predicted: Dessert
+True: Meat, Predicted: Fried food
+True: Meat, Predicted: Bread
+True: Meat, Predicted: Dessert
+True: Meat, Predicted: Dessert
+True: Meat, Predicted: Fried food
+True: Meat, Predicted: Seafood
+True: Meat, Predicted: Egg
+True: Meat, Predicted: Dessert
+True: Meat, Predicted: Dairy product
+True: Meat, Predicted: Fried food
+True: Meat, Predicted: Egg
+True: Meat, Predicted: Dessert
+True: Meat, Predicted: Dessert
+True: Meat, Predicted: Seafood
+True: Meat, Predicted: Dessert
+True: Meat, Predicted: Egg
+True: Noodles, Predicted: Soup
+True: Noodles, Predicted: Bread
+True: Noodles, Predicted: Soup
+True: Noodles, Predicted: Soup
+True: Noodles, Predicted: Meat
+True: Noodles, Predicted: Dessert
+True: Noodles, Predicted: Egg
+True: Noodles, Predicted: Seafood
+True: Noodles, Predicted: Seafood
+True: Rice, Predicted: Soup
+True: Rice, Predicted: Egg
+True: Rice, Predicted: Noodles
+True: Rice, Predicted: Soup
+True: Rice, Predicted: Noodles
+True: Rice, Predicted: Bread
+True: Rice, Predicted: Egg
+True: Rice, Predicted: Meat
+True: Rice, Predicted: Bread
+True: Rice, Predicted: Meat
+True: Seafood, Predicted: Dessert
+True: Seafood, Predicted: Meat
+True: Seafood, Predicted: Vegetable
+True: Seafood, Predicted: Dairy product
+True: Seafood, Predicted: Dessert
+True: Seafood, Predicted: Dessert
+True: Seafood, Predicted: Vegetable
+True: Seafood, Predicted: Noodles
+True: Seafood, Predicted: Meat
+True: Seafood, Predicted: Meat
+True: Seafood, Predicted: Bread
+True: Seafood, Predicted: Bread
+True: Seafood, Predicted: Meat
+True: Seafood, Predicted: Dessert
+True: Seafood, Predicted: Fried food
+True: Seafood, Predicted: Egg
+True: Seafood, Predicted: Meat
+True: Seafood, Predicted: Bread
+True: Seafood, Predicted: Soup
+True: Seafood, Predicted: Dessert
+True: Seafood, Predicted: Meat
+True: Seafood, Predicted: Dessert
+True: Seafood, Predicted: Bread
+True: Seafood, Predicted: Meat
+True: Seafood, Predicted: Bread
+True: Seafood, Predicted: Meat
+True: Seafood, Predicted: Soup
+True: Seafood, Predicted: Dairy product
+True: Seafood, Predicted: Meat
+True: Seafood, Predicted: Vegetable
+True: Seafood, Predicted: Meat
+True: Seafood, Predicted: Dessert
+True: Seafood, Predicted: Vegetable
+True: Seafood, Predicted: Egg
+True: Seafood, Predicted: Egg
+True: Seafood, Predicted: Meat
+True: Seafood, Predicted: Egg
+True: Seafood, Predicted: Dessert
+True: Seafood, Predicted: Dessert
+True: Seafood, Predicted: Fried food
+True: Seafood, Predicted: Egg
+True: Seafood, Predicted: Noodles
+True: Seafood, Predicted: Egg
+True: Seafood, Predicted: Meat
+True: Seafood, Predicted: Vegetable
+True: Seafood, Predicted: Vegetable
+True: Seafood, Predicted: Meat
+True: Seafood, Predicted: Dessert
+True: Seafood, Predicted: Vegetable
+True: Seafood, Predicted: Meat
+True: Seafood, Predicted: Dessert
+True: Seafood, Predicted: Fried food
+True: Seafood, Predicted: Vegetable
+True: Seafood, Predicted: Fried food
+True: Seafood, Predicted: Noodles
+True: Seafood, Predicted: Soup
+True: Seafood, Predicted: Vegetable
+True: Seafood, Predicted: Bread
+True: Seafood, Predicted: Meat
+True: Seafood, Predicted: Soup
+True: Seafood, Predicted: Meat
+True: Seafood, Predicted: Fried food
+True: Seafood, Predicted: Vegetable
+True: Seafood, Predicted: Meat
+True: Seafood, Predicted: Bread
+True: Seafood, Predicted: Fried food
+True: Soup, Predicted: Dairy product
+True: Soup, Predicted: Meat
+True: Soup, Predicted: Fried food
+True: Soup, Predicted: Noodles
+True: Soup, Predicted: Dessert
+True: Soup, Predicted: Dessert
+True: Soup, Predicted: Dessert
+True: Soup, Predicted: Dessert
+True: Soup, Predicted: Bread
+True: Soup, Predicted: Noodles
+True: Soup, Predicted: Dessert
+True: Soup, Predicted: Dessert
+True: Soup, Predicted: Bread
+True: Soup, Predicted: Meat
+True: Soup, Predicted: Fried food
+True: Soup, Predicted: Dessert
+True: Soup, Predicted: Dessert
+True: Soup, Predicted: Dessert
+True: Soup, Predicted: Dessert
+True: Soup, Predicted: Dessert
+True: Soup, Predicted: Dessert
+True: Soup, Predicted: Seafood
+True: Soup, Predicted: Dessert
+True: Soup, Predicted: Dairy product
+True: Soup, Predicted: Meat
+True: Soup, Predicted: Noodles
+True: Soup, Predicted: Dessert
+True: Soup, Predicted: Seafood
+True: Soup, Predicted: Meat
+True: Soup, Predicted: Dessert
+True: Soup, Predicted: Dessert
+True: Soup, Predicted: Dessert
+True: Soup, Predicted: Dairy product
+True: Soup, Predicted: Fried food
+True: Soup, Predicted: Egg
+True: Soup, Predicted: Meat
+True: Soup, Predicted: Meat
+True: Soup, Predicted: Dessert
+True: Soup, Predicted: Dairy product
+True: Soup, Predicted: Rice
+True: Soup, Predicted: Dessert
+True: Soup, Predicted: Seafood
+True: Soup, Predicted: Seafood
+True: Soup, Predicted: Dairy product
+True: Vegetable, Predicted: Seafood
+True: Vegetable, Predicted: Egg
+True: Vegetable, Predicted: Dairy product
+True: Vegetable, Predicted: Rice
+True: Vegetable, Predicted: Rice
+True: Vegetable, Predicted: Fried food
+True: Vegetable, Predicted: Dessert
+True: Vegetable, Predicted: Egg
+True: Vegetable, Predicted: Dessert
+True: Vegetable, Predicted: Seafood
+True: Vegetable, Predicted: Fried food
+True: Vegetable, Predicted: Dessert
+True: Vegetable, Predicted: Fried food
+True: Vegetable, Predicted: Dessert
+True: Vegetable, Predicted: Dessert
+True: Vegetable, Predicted: Seafood
+True: Vegetable, Predicted: Seafood
+True: Vegetable, Predicted: Rice
+True: Vegetable, Predicted: Egg
+True: Vegetable, Predicted: Seafood
+True: Vegetable, Predicted: Seafood
+True: Vegetable, Predicted: Meat
+True: Vegetable, Predicted: Fried food
